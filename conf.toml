@@ -1,0 +1,8 @@
+[db]
+ip = "139.155.73.80"
+port = 3306
+schema = "dshop_alpha"
+user = "alpha"
+pwd = "Av9WdemDNn&5ZDJa"
+maxConn = 20
+maxIdle = 5
